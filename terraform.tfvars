@@ -1,0 +1,5 @@
+region        = "eu-west-3"
+image         = "kayerosaint/multi_env:latest"
+instance_ami  = "ami-0ca82f640eae28513"
+instance_user = "core"
+env           = "staging"
